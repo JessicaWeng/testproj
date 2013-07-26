@@ -1,4 +1,4 @@
 <?php
-
-print 'hello word';
-?>
+autocmd
+autocmdprint 'hello word';
+autocmd?>
